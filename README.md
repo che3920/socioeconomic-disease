@@ -2,6 +2,11 @@
 
 Here is a personal data sciecnce project exploring the relationship between socioeconomic factors and disease. This is my first data science project and I will definitely revisit this to make improvements as I grow my skills.
 
+In this repository you will find the same file in three different formats. To quickly view the jupyter notebook project on github, I recommmend clicking or downloading the .ipynb file. If you are not set up with jupyter notebook and want to download the project, I would recommend downloading the html version. A pdf version is also available if that is what you prefer. 
+
+
+Below are the links I used to acquire the data for this project:
+
 https://www.cdc.gov/nchs/pressroom/sosmap/cancer_mortality/cancer.htm - cancer death rate by state
 https://quotewizard.com/news/posts/states-with-highest-depression-rates - depression rates per state
 https://www.americashealthrankings.org/explore/annual/measure/CHD/state/ALL - heart disease, suicide, heart attack by state
